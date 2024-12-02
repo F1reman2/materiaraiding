@@ -58,7 +58,7 @@ By Kobe
 ### Mitigation Plan
 By Ikuya Kirishima
 
-[Materia FRU Mitty](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
+[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
 ---
 
@@ -442,7 +442,7 @@ This is immediately followed by:
 
 ### Ultimate Relativity
 
-{% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
+{% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/URV2point1" %}
 
 {% include image.html width="400px" path="URDPS.webp" %}
 {% include image.html width="400px" path="URSUPP.webp" %}
